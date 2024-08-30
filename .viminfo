@@ -1,0 +1,396 @@
+# この viminfo ファイルは Vim 8.2 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# 最後の 検索パターン:
+~Msle0~/\<chanyangpark23\>
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+|2,0,1725037849,,"wq"
+:se nu
+|2,0,1725037824,,"se nu"
+:q!
+|2,0,1725037449,,"q!"
+:ㅂ!
+|2,0,1725037143,,"ㅂ!"
+:type
+|2,0,1724928783,,"type"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+? \<chanyangpark23\>
+|2,1,1725037047,,"\\<chanyangpark23\\>"
+??se nu
+|2,1,1724929449,63,"se nu"
+??type
+|2,1,1724928785,63,"type"
+??PermitRoot
+|2,1,1724850851,63,"PermitRoot"
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""-	CHAR	0
+	:
+|3,1,36,0,1,0,1725037822,":"
+
+# ファイルマーク:
+'0  12  10  ~/nginx/secret.yaml
+|4,48,12,10,1725037849,"~/nginx/secret.yaml"
+'1  9  10  ~/nginx/secret.yaml
+|4,49,9,10,1725037815,"~/nginx/secret.yaml"
+'2  9  10  ~/nginx/secret.yaml
+|4,50,9,10,1725037815,"~/nginx/secret.yaml"
+'3  10  50  ~/nginx/secret.yaml
+|4,51,10,50,1725037687,"~/nginx/secret.yaml"
+'4  9  50  ~/nginx/secret.yaml
+|4,52,9,50,1725037687,"~/nginx/secret.yaml"
+'5  10  50  ~/nginx/secret.yaml
+|4,53,10,50,1725037687,"~/nginx/secret.yaml"
+'6  9  50  ~/nginx/secret.yaml
+|4,54,9,50,1725037687,"~/nginx/secret.yaml"
+'7  7  45  ~/nginx/secret.yaml
+|4,55,7,45,1725037658,"~/nginx/secret.yaml"
+'8  7  45  ~/nginx/secret.yaml
+|4,56,7,45,1725037658,"~/nginx/secret.yaml"
+'9  7  45  ~/nginx/secret.yaml
+|4,57,7,45,1725037658,"~/nginx/secret.yaml"
+
+# ジャンプリスト (新しいものが先):
+-'  12  10  ~/nginx/secret.yaml
+|4,39,12,10,1725037849,"~/nginx/secret.yaml"
+-'  9  10  ~/nginx/secret.yaml
+|4,39,9,10,1725037819,"~/nginx/secret.yaml"
+-'  9  10  ~/nginx/secret.yaml
+|4,39,9,10,1725037815,"~/nginx/secret.yaml"
+-'  10  50  ~/nginx/secret.yaml
+|4,39,10,50,1725037794,"~/nginx/secret.yaml"
+-'  10  50  ~/nginx/secret.yaml
+|4,39,10,50,1725037794,"~/nginx/secret.yaml"
+-'  9  50  ~/nginx/secret.yaml
+|4,39,9,50,1725037687,"~/nginx/secret.yaml"
+-'  7  45  ~/nginx/secret.yaml
+|4,39,7,45,1725037675,"~/nginx/secret.yaml"
+-'  7  45  ~/nginx/secret.yaml
+|4,39,7,45,1725037675,"~/nginx/secret.yaml"
+-'  7  45  ~/nginx/secret.yaml
+|4,39,7,45,1725037675,"~/nginx/secret.yaml"
+-'  7  45  ~/nginx/secret.yaml
+|4,39,7,45,1725037658,"~/nginx/secret.yaml"
+-'  1  0  ~/nginx/secret.yaml
+|4,39,1,0,1725037621,"~/nginx/secret.yaml"
+-'  1  0  ~/nginx/secret.yaml
+|4,39,1,0,1725037621,"~/nginx/secret.yaml"
+-'  1  0  ~/nginx/secret.yaml
+|4,39,1,0,1725037621,"~/nginx/secret.yaml"
+-'  1  0  ~/nginx/secret.yaml
+|4,39,1,0,1725037621,"~/nginx/secret.yaml"
+-'  11  47  ~/nginx/secret.yaml
+|4,39,11,47,1725037449,"~/nginx/secret.yaml"
+-'  11  47  ~/nginx/secret.yaml
+|4,39,11,47,1725037449,"~/nginx/secret.yaml"
+-'  10  47  ~/nginx/secret.yaml
+|4,39,10,47,1725037449,"~/nginx/secret.yaml"
+-'  10  47  ~/nginx/secret.yaml
+|4,39,10,47,1725037449,"~/nginx/secret.yaml"
+-'  10  47  ~/nginx/secret.yaml
+|4,39,10,47,1725037449,"~/nginx/secret.yaml"
+-'  10  47  ~/nginx/secret.yaml
+|4,39,10,47,1725037438,"~/nginx/secret.yaml"
+-'  10  50  ~/nginx/secret.yaml
+|4,39,10,50,1725037397,"~/nginx/secret.yaml"
+-'  13  25  ~/nginx/secret.yaml
+|4,39,13,25,1725037379,"~/nginx/secret.yaml"
+-'  13  25  ~/nginx/secret.yaml
+|4,39,13,25,1725037379,"~/nginx/secret.yaml"
+-'  12  25  ~/nginx/secret.yaml
+|4,39,12,25,1725037379,"~/nginx/secret.yaml"
+-'  12  25  ~/nginx/secret.yaml
+|4,39,12,25,1725037379,"~/nginx/secret.yaml"
+-'  12  25  ~/nginx/secret.yaml
+|4,39,12,25,1725037379,"~/nginx/secret.yaml"
+-'  12  25  ~/nginx/secret.yaml
+|4,39,12,25,1725037379,"~/nginx/secret.yaml"
+-'  12  25  ~/nginx/secret.yaml
+|4,39,12,25,1725037379,"~/nginx/secret.yaml"
+-'  12  25  ~/nginx/secret.yaml
+|4,39,12,25,1725037154,"~/nginx/secret.yaml"
+-'  1  0  ~/nginx/secret.yaml
+|4,39,1,0,1725037152,"~/nginx/secret.yaml"
+-'  1  0  ~/nginx/secret.yaml
+|4,39,1,0,1725037152,"~/nginx/secret.yaml"
+-'  1  0  ~/nginx/secret.yaml
+|4,39,1,0,1725037152,"~/nginx/secret.yaml"
+-'  1  0  ~/nginx/secret.yaml
+|4,39,1,0,1725037152,"~/nginx/secret.yaml"
+-'  5  1  ~/nginx/secret.yaml
+|4,39,5,1,1725037146,"~/nginx/secret.yaml"
+-'  5  1  ~/nginx/secret.yaml
+|4,39,5,1,1725037146,"~/nginx/secret.yaml"
+-'  5  1  ~/nginx/secret.yaml
+|4,39,5,1,1725037146,"~/nginx/secret.yaml"
+-'  5  1  ~/nginx/secret.yaml
+|4,39,5,1,1725037146,"~/nginx/secret.yaml"
+-'  5  1  ~/nginx/secret.yaml
+|4,39,5,1,1725037146,"~/nginx/secret.yaml"
+-'  5  1  ~/nginx/secret.yaml
+|4,39,5,1,1725037146,"~/nginx/secret.yaml"
+-'  5  1  ~/nginx/secret.yaml
+|4,39,5,1,1725037146,"~/nginx/secret.yaml"
+-'  5  1  ~/nginx/secret.yaml
+|4,39,5,1,1725037146,"~/nginx/secret.yaml"
+-'  5  1  ~/nginx/secret.yaml
+|4,39,5,1,1725037146,"~/nginx/secret.yaml"
+-'  4  0  ~/nginx/secret.yaml
+|4,39,4,0,1725037117,"~/nginx/secret.yaml"
+-'  4  0  ~/nginx/secret.yaml
+|4,39,4,0,1725037117,"~/nginx/secret.yaml"
+-'  4  0  ~/nginx/secret.yaml
+|4,39,4,0,1725037117,"~/nginx/secret.yaml"
+-'  4  0  ~/nginx/secret.yaml
+|4,39,4,0,1725037117,"~/nginx/secret.yaml"
+-'  4  0  ~/nginx/secret.yaml
+|4,39,4,0,1725037117,"~/nginx/secret.yaml"
+-'  4  0  ~/nginx/secret.yaml
+|4,39,4,0,1725037117,"~/nginx/secret.yaml"
+-'  4  0  ~/nginx/secret.yaml
+|4,39,4,0,1725037117,"~/nginx/secret.yaml"
+-'  4  0  ~/nginx/secret.yaml
+|4,39,4,0,1725037117,"~/nginx/secret.yaml"
+-'  4  0  ~/nginx/secret.yaml
+|4,39,4,0,1725037117,"~/nginx/secret.yaml"
+-'  4  0  ~/nginx/secret.yaml
+|4,39,4,0,1725037111,"~/nginx/secret.yaml"
+-'  4  0  ~/nginx/secret.yaml
+|4,39,4,0,1725037093,"~/nginx/secret.yaml"
+-'  14  27  ~/nginx/secret.yaml
+|4,39,14,27,1725037047,"~/nginx/secret.yaml"
+-'  14  27  ~/nginx/secret.yaml
+|4,39,14,27,1725037047,"~/nginx/secret.yaml"
+-'  13  27  ~/nginx/secret.yaml
+|4,39,13,27,1725037047,"~/nginx/secret.yaml"
+-'  13  27  ~/nginx/secret.yaml
+|4,39,13,27,1725037047,"~/nginx/secret.yaml"
+-'  13  27  ~/nginx/secret.yaml
+|4,39,13,27,1725037047,"~/nginx/secret.yaml"
+-'  13  27  ~/nginx/secret.yaml
+|4,39,13,27,1725037047,"~/nginx/secret.yaml"
+-'  13  27  ~/nginx/secret.yaml
+|4,39,13,27,1725037047,"~/nginx/secret.yaml"
+-'  13  27  ~/nginx/secret.yaml
+|4,39,13,27,1725037047,"~/nginx/secret.yaml"
+-'  13  27  ~/nginx/secret.yaml
+|4,39,13,27,1725037047,"~/nginx/secret.yaml"
+-'  13  27  ~/nginx/secret.yaml
+|4,39,13,27,1725037047,"~/nginx/secret.yaml"
+-'  13  27  ~/nginx/secret.yaml
+|4,39,13,27,1725037047,"~/nginx/secret.yaml"
+-'  13  27  ~/nginx/secret.yaml
+|4,39,13,27,1725037042,"~/nginx/secret.yaml"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+-'  1  0  ~/nginx/se
+|4,39,1,0,1725037031,"~/nginx/se"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/nginx/secret.yaml
+	*	1725037833	0
+	"	12	10
+	^	12	11
+	.	12	10
+	+	14	22
+	+	13	53
+	+	14	27
+	+	3	0
+	+	4	0
+	+	13	25
+	+	11	47
+	+	12	28
+	+	11	25
+	+	12	51
+	+	7	46
+	+	8	0
+	+	10	50
+	+	9	5
+	+	8	10
+	+	9	10
+	+	12	10
+
+> ~/nginx/se
+	*	1725037029	0
+	"	1	0
+
+> ~/dev/.git/MERGE_MSG
+	*	1724934154	0
+	"	3	0
+
+> ~/dev/application.yaml
+	*	1724933177	0
+	"	23	16
+	^	23	17
+	.	23	16
+	+	1	32
+	+	23	16
+
+> ~/grafana.yaml
+	*	1724932087	0
+	"	1088	22
+	^	1088	23
+	.	1088	22
+	+	1088	22
+
+> ~/jaeger.yaml
+	*	1724929459	0
+	"	240	0
+
+> /tmp/kubectl-edit-2682758921.yaml
+	*	1724928797	0
+	"	53	15
+	^	53	16
+	.	53	15
+	+	53	15
+
+> /tmp/kubectl-edit-3954307247.yaml
+	*	1724928778	0
+	"	1	52
+	^	1	53
+	.	1	52
+	+	1	52
+
+> ~/1.yaml
+	*	1724928483	0
+	"	14	17
+	^	14	18
+	.	14	17
+	+	14	17
+
+> ~/.bashrc
+	*	1724928273	0
+	"	20	35
+	^	20	36
+	.	20	35
+	+	25	16
+	+	22	0
+	+	20	35
+
+> ~/istio/4.yaml
+	*	1724927825	0
+	"	300	0
+	^	300	0
+	.	299	20
+	+	299	20
+
+> ~/istio/3.yaml
+	*	1724927793	0
+	"	12	0
+	^	12	0
+	.	11	22
+	+	11	22
+
+> ~/istio/2.yaml
+	*	1724927782	0
+	"	6614	0
+	^	6615	0
+	.	6614	0
+	+	6452	19
+	+	6614	0
+
+> ~/istio/1.yaml
+	*	1724927637	0
+	"	6591	0
+	^	6591	0
+	.	6590	50
+	+	6590	50
+
+> /etc/sysctl.d/k8s.conf
+	*	1724850979	0
+	"	3	38
+	^	3	39
+	.	3	38
+	+	3	38
+
+> /etc/ssh/sshd_config
+	*	1724850858	0
+	"	40	18
+	^	40	19
+	.	40	18
+	+	40	18
